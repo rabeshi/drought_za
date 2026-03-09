@@ -1,0 +1,781 @@
+component,model,district,year,value
+Drought,CHIRPS,Overberg,2011,0.02
+Drought,CHIRPS,Garden Route,2011,-0.23
+Drought,CHIRPS,City of Cape Town,2011,0.5
+Drought,CHIRPS,Cacadu,2011,-0.15
+Drought,CHIRPS,Cape Winelands,2011,-0.18
+Drought,CHIRPS,Nelson Mandela Bay,2011,0.6
+Drought,CHIRPS,West Coast,2011,-0.11
+Drought,CHIRPS,Central Karoo,2011,-0.25
+Drought,CHIRPS,Amathole,2011,-0.21
+Drought,CHIRPS,Buffalo City,2011,-0.2
+Drought,CHIRPS,Namakwa,2011,-0.23
+Drought,CHIRPS,Chris Hani,2011,-0.25
+Drought,CHIRPS,OR Tambo,2011,-0.26
+Drought,CHIRPS,Pixley ka Seme,2011,-0.24
+Drought,CHIRPS,Joe Gqabi,2011,-0.24
+Drought,CHIRPS,Alfred Nzo,2011,-0.26
+Drought,CHIRPS,Ugu,2011,-0.01
+Drought,CHIRPS,Xhariep,2011,-0.24
+Drought,CHIRPS,Harry Gwala,2011,-0.26
+Drought,CHIRPS,eThekwini,2011,-0.2
+Drought,CHIRPS,uMgungundlovu,2011,-0.26
+Drought,CHIRPS,ZF Mgcawu,2011,-0.23
+Drought,CHIRPS,iLembe,2011,-0.19
+Drought,CHIRPS,Mangaung,2011,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2011,-0.26
+Drought,CHIRPS,uThukela,2011,-0.27
+Drought,CHIRPS,uMzinyathi,2011,-0.25
+Drought,CHIRPS,King Cetshwayo,2011,-0.25
+Drought,CHIRPS,Lejweleputswa,2011,-0.25
+Drought,CHIRPS,Frances Baard,2011,-0.24
+Drought,CHIRPS,Zululand,2011,-0.26
+Drought,CHIRPS,uMkhanyakude,2011,-0.25
+Drought,CHIRPS,Fezile Dabi,2011,-0.26
+Drought,CHIRPS,Amajuba,2011,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2011,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2011,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2011,-0.25
+Drought,CHIRPS,Gert Sibande,2011,-0.2
+Drought,CHIRPS,Ngaka Modiri Molema,2011,-0.25
+Drought,CHIRPS,Sedibeng,2011,-0.25
+Drought,CHIRPS,West Rand,2011,-0.26
+Drought,CHIRPS,Ekurhuleni,2011,-0.25
+Drought,CHIRPS,City of Johannesburg,2011,-0.25
+Drought,CHIRPS,Nkangala,2011,-0.14
+Drought,CHIRPS,Bojanala,2011,-0.25
+Drought,CHIRPS,City of Tshwane,2011,-0.21
+Drought,CHIRPS,Ehlanzeni,2011,-0.25
+Drought,CHIRPS,Sekhukhune,2011,-0.23
+Drought,CHIRPS,Waterberg,2011,-0.24
+Drought,CHIRPS,Capricorn,2011,-0.24
+Drought,CHIRPS,Mopani,2011,-0.24
+Drought,CHIRPS,Vhembe,2011,-0.24
+Drought,CHIRPS,Overberg,2012,-0.23
+Drought,CHIRPS,Garden Route,2012,-0.26
+Drought,CHIRPS,City of Cape Town,2012,-0.14
+Drought,CHIRPS,Cacadu,2012,-0.26
+Drought,CHIRPS,Cape Winelands,2012,-0.2
+Drought,CHIRPS,Nelson Mandela Bay,2012,-0.26
+Drought,CHIRPS,West Coast,2012,0.07
+Drought,CHIRPS,Central Karoo,2012,-0.25
+Drought,CHIRPS,Amathole,2012,-0.27
+Drought,CHIRPS,Buffalo City,2012,-0.27
+Drought,CHIRPS,Namakwa,2012,-0.21
+Drought,CHIRPS,Chris Hani,2012,-0.25
+Drought,CHIRPS,OR Tambo,2012,-0.26
+Drought,CHIRPS,Pixley ka Seme,2012,0
+Drought,CHIRPS,Joe Gqabi,2012,-0.24
+Drought,CHIRPS,Alfred Nzo,2012,-0.24
+Drought,CHIRPS,Ugu,2012,-0.26
+Drought,CHIRPS,Xhariep,2012,0.18
+Drought,CHIRPS,Harry Gwala,2012,0
+Drought,CHIRPS,eThekwini,2012,-0.25
+Drought,CHIRPS,uMgungundlovu,2012,0.08
+Drought,CHIRPS,ZF Mgcawu,2012,-0.16
+Drought,CHIRPS,iLembe,2012,-0.26
+Drought,CHIRPS,Mangaung,2012,1.74
+Drought,CHIRPS,Thabo Mofutsanyane,2012,0.81
+Drought,CHIRPS,uThukela,2012,1.11
+Drought,CHIRPS,uMzinyathi,2012,-0.16
+Drought,CHIRPS,King Cetshwayo,2012,-0.25
+Drought,CHIRPS,Lejweleputswa,2012,2.07
+Drought,CHIRPS,Frances Baard,2012,0.75
+Drought,CHIRPS,Zululand,2012,-0.17
+Drought,CHIRPS,uMkhanyakude,2012,-0.17
+Drought,CHIRPS,Fezile Dabi,2012,0.37
+Drought,CHIRPS,Amajuba,2012,0
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2012,0.33
+Drought,CHIRPS,John Taolo Gaetsewe,2012,-0.16
+Drought,CHIRPS,Dr Kenneth Kaunda,2012,0.98
+Drought,CHIRPS,Gert Sibande,2012,1.12
+Drought,CHIRPS,Ngaka Modiri Molema,2012,0.59
+Drought,CHIRPS,Sedibeng,2012,0.01
+Drought,CHIRPS,West Rand,2012,0.56
+Drought,CHIRPS,Ekurhuleni,2012,0.17
+Drought,CHIRPS,City of Johannesburg,2012,0.04
+Drought,CHIRPS,Nkangala,2012,1.79
+Drought,CHIRPS,Bojanala,2012,1.15
+Drought,CHIRPS,City of Tshwane,2012,2.94
+Drought,CHIRPS,Ehlanzeni,2012,-0.22
+Drought,CHIRPS,Sekhukhune,2012,0.44
+Drought,CHIRPS,Waterberg,2012,0.56
+Drought,CHIRPS,Capricorn,2012,-0.24
+Drought,CHIRPS,Mopani,2012,-0.24
+Drought,CHIRPS,Vhembe,2012,-0.23
+Drought,CHIRPS,Overberg,2013,-0.26
+Drought,CHIRPS,Garden Route,2013,-0.25
+Drought,CHIRPS,City of Cape Town,2013,-0.25
+Drought,CHIRPS,Cacadu,2013,-0.24
+Drought,CHIRPS,Cape Winelands,2013,-0.24
+Drought,CHIRPS,Nelson Mandela Bay,2013,-0.15
+Drought,CHIRPS,West Coast,2013,-0.19
+Drought,CHIRPS,Central Karoo,2013,-0.25
+Drought,CHIRPS,Amathole,2013,-0.24
+Drought,CHIRPS,Buffalo City,2013,-0.25
+Drought,CHIRPS,Namakwa,2013,-0.2
+Drought,CHIRPS,Chris Hani,2013,-0.22
+Drought,CHIRPS,OR Tambo,2013,-0.25
+Drought,CHIRPS,Pixley ka Seme,2013,-0.24
+Drought,CHIRPS,Joe Gqabi,2013,-0.2
+Drought,CHIRPS,Alfred Nzo,2013,-0.26
+Drought,CHIRPS,Ugu,2013,-0.26
+Drought,CHIRPS,Xhariep,2013,-0.22
+Drought,CHIRPS,Harry Gwala,2013,-0.26
+Drought,CHIRPS,eThekwini,2013,-0.25
+Drought,CHIRPS,uMgungundlovu,2013,-0.26
+Drought,CHIRPS,ZF Mgcawu,2013,-0.17
+Drought,CHIRPS,iLembe,2013,-0.26
+Drought,CHIRPS,Mangaung,2013,-0.24
+Drought,CHIRPS,Thabo Mofutsanyane,2013,-0.25
+Drought,CHIRPS,uThukela,2013,-0.27
+Drought,CHIRPS,uMzinyathi,2013,-0.26
+Drought,CHIRPS,King Cetshwayo,2013,-0.25
+Drought,CHIRPS,Lejweleputswa,2013,-0.22
+Drought,CHIRPS,Frances Baard,2013,-0.22
+Drought,CHIRPS,Zululand,2013,-0.26
+Drought,CHIRPS,uMkhanyakude,2013,-0.25
+Drought,CHIRPS,Fezile Dabi,2013,-0.18
+Drought,CHIRPS,Amajuba,2013,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2013,-0.2
+Drought,CHIRPS,John Taolo Gaetsewe,2013,0.18
+Drought,CHIRPS,Dr Kenneth Kaunda,2013,-0.2
+Drought,CHIRPS,Gert Sibande,2013,-0.24
+Drought,CHIRPS,Ngaka Modiri Molema,2013,-0.19
+Drought,CHIRPS,Sedibeng,2013,-0.23
+Drought,CHIRPS,West Rand,2013,-0.26
+Drought,CHIRPS,Ekurhuleni,2013,-0.19
+Drought,CHIRPS,City of Johannesburg,2013,-0.25
+Drought,CHIRPS,Nkangala,2013,-0.2
+Drought,CHIRPS,Bojanala,2013,-0.23
+Drought,CHIRPS,City of Tshwane,2013,-0.25
+Drought,CHIRPS,Ehlanzeni,2013,-0.25
+Drought,CHIRPS,Sekhukhune,2013,-0.24
+Drought,CHIRPS,Waterberg,2013,-0.24
+Drought,CHIRPS,Capricorn,2013,-0.24
+Drought,CHIRPS,Mopani,2013,-0.24
+Drought,CHIRPS,Vhembe,2013,-0.24
+Drought,CHIRPS,Overberg,2014,-0.26
+Drought,CHIRPS,Garden Route,2014,-0.25
+Drought,CHIRPS,City of Cape Town,2014,-0.25
+Drought,CHIRPS,Cacadu,2014,-0.26
+Drought,CHIRPS,Cape Winelands,2014,-0.24
+Drought,CHIRPS,Nelson Mandela Bay,2014,-0.24
+Drought,CHIRPS,West Coast,2014,-0.24
+Drought,CHIRPS,Central Karoo,2014,-0.25
+Drought,CHIRPS,Amathole,2014,-0.27
+Drought,CHIRPS,Buffalo City,2014,-0.27
+Drought,CHIRPS,Namakwa,2014,-0.23
+Drought,CHIRPS,Chris Hani,2014,-0.25
+Drought,CHIRPS,OR Tambo,2014,-0.24
+Drought,CHIRPS,Pixley ka Seme,2014,-0.19
+Drought,CHIRPS,Joe Gqabi,2014,-0.24
+Drought,CHIRPS,Alfred Nzo,2014,-0.25
+Drought,CHIRPS,Ugu,2014,-0.1
+Drought,CHIRPS,Xhariep,2014,-0.2
+Drought,CHIRPS,Harry Gwala,2014,0.63
+Drought,CHIRPS,eThekwini,2014,0.39
+Drought,CHIRPS,uMgungundlovu,2014,0.58
+Drought,CHIRPS,ZF Mgcawu,2014,-0.23
+Drought,CHIRPS,iLembe,2014,0.3
+Drought,CHIRPS,Mangaung,2014,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2014,-0.25
+Drought,CHIRPS,uThukela,2014,0.27
+Drought,CHIRPS,uMzinyathi,2014,-0.06
+Drought,CHIRPS,King Cetshwayo,2014,0.36
+Drought,CHIRPS,Lejweleputswa,2014,-0.24
+Drought,CHIRPS,Frances Baard,2014,-0.21
+Drought,CHIRPS,Zululand,2014,-0.01
+Drought,CHIRPS,uMkhanyakude,2014,-0.12
+Drought,CHIRPS,Fezile Dabi,2014,-0.17
+Drought,CHIRPS,Amajuba,2014,-0.24
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2014,-0.23
+Drought,CHIRPS,John Taolo Gaetsewe,2014,-0.22
+Drought,CHIRPS,Dr Kenneth Kaunda,2014,-0.22
+Drought,CHIRPS,Gert Sibande,2014,-0.25
+Drought,CHIRPS,Ngaka Modiri Molema,2014,-0.19
+Drought,CHIRPS,Sedibeng,2014,-0.2
+Drought,CHIRPS,West Rand,2014,-0.17
+Drought,CHIRPS,Ekurhuleni,2014,-0.2
+Drought,CHIRPS,City of Johannesburg,2014,-0.23
+Drought,CHIRPS,Nkangala,2014,-0.25
+Drought,CHIRPS,Bojanala,2014,-0.2
+Drought,CHIRPS,City of Tshwane,2014,-0.24
+Drought,CHIRPS,Ehlanzeni,2014,-0.22
+Drought,CHIRPS,Sekhukhune,2014,-0.24
+Drought,CHIRPS,Waterberg,2014,-0.23
+Drought,CHIRPS,Capricorn,2014,-0.24
+Drought,CHIRPS,Mopani,2014,-0.24
+Drought,CHIRPS,Vhembe,2014,-0.24
+Drought,CHIRPS,Overberg,2015,-0.1
+Drought,CHIRPS,Garden Route,2015,0.46
+Drought,CHIRPS,City of Cape Town,2015,-0.2
+Drought,CHIRPS,Cacadu,2015,-0.23
+Drought,CHIRPS,Cape Winelands,2015,-0.05
+Drought,CHIRPS,Nelson Mandela Bay,2015,-0.26
+Drought,CHIRPS,West Coast,2015,-0.12
+Drought,CHIRPS,Central Karoo,2015,0.54
+Drought,CHIRPS,Amathole,2015,-0.27
+Drought,CHIRPS,Buffalo City,2015,-0.27
+Drought,CHIRPS,Namakwa,2015,-0.13
+Drought,CHIRPS,Chris Hani,2015,-0.21
+Drought,CHIRPS,OR Tambo,2015,0.03
+Drought,CHIRPS,Pixley ka Seme,2015,-0.17
+Drought,CHIRPS,Joe Gqabi,2015,-0.07
+Drought,CHIRPS,Alfred Nzo,2015,0.13
+Drought,CHIRPS,Ugu,2015,0.12
+Drought,CHIRPS,Xhariep,2015,-0.16
+Drought,CHIRPS,Harry Gwala,2015,0.36
+Drought,CHIRPS,eThekwini,2015,0.54
+Drought,CHIRPS,uMgungundlovu,2015,0.73
+Drought,CHIRPS,ZF Mgcawu,2015,-0.17
+Drought,CHIRPS,iLembe,2015,1.68
+Drought,CHIRPS,Mangaung,2015,-0.21
+Drought,CHIRPS,Thabo Mofutsanyane,2015,0.08
+Drought,CHIRPS,uThukela,2015,0.63
+Drought,CHIRPS,uMzinyathi,2015,1.07
+Drought,CHIRPS,King Cetshwayo,2015,2.45
+Drought,CHIRPS,Lejweleputswa,2015,0.24
+Drought,CHIRPS,Frances Baard,2015,0.21
+Drought,CHIRPS,Zululand,2015,1.44
+Drought,CHIRPS,uMkhanyakude,2015,0.41
+Drought,CHIRPS,Fezile Dabi,2015,0.07
+Drought,CHIRPS,Amajuba,2015,0.89
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2015,0.79
+Drought,CHIRPS,John Taolo Gaetsewe,2015,0.05
+Drought,CHIRPS,Dr Kenneth Kaunda,2015,0.17
+Drought,CHIRPS,Gert Sibande,2015,0.09
+Drought,CHIRPS,Ngaka Modiri Molema,2015,1.06
+Drought,CHIRPS,Sedibeng,2015,-0.21
+Drought,CHIRPS,West Rand,2015,-0.07
+Drought,CHIRPS,Ekurhuleni,2015,-0.1
+Drought,CHIRPS,City of Johannesburg,2015,-0.19
+Drought,CHIRPS,Nkangala,2015,0.15
+Drought,CHIRPS,Bojanala,2015,0.94
+Drought,CHIRPS,City of Tshwane,2015,-0.11
+Drought,CHIRPS,Ehlanzeni,2015,-0.24
+Drought,CHIRPS,Sekhukhune,2015,-0.14
+Drought,CHIRPS,Waterberg,2015,0.3
+Drought,CHIRPS,Capricorn,2015,-0.2
+Drought,CHIRPS,Mopani,2015,-0.15
+Drought,CHIRPS,Vhembe,2015,-0.1
+Drought,CHIRPS,Overberg,2016,-0.24
+Drought,CHIRPS,Garden Route,2016,-0.19
+Drought,CHIRPS,City of Cape Town,2016,-0.15
+Drought,CHIRPS,Cacadu,2016,-0.15
+Drought,CHIRPS,Cape Winelands,2016,-0.18
+Drought,CHIRPS,Nelson Mandela Bay,2016,-0.14
+Drought,CHIRPS,West Coast,2016,-0.21
+Drought,CHIRPS,Central Karoo,2016,-0.22
+Drought,CHIRPS,Amathole,2016,-0.26
+Drought,CHIRPS,Buffalo City,2016,-0.27
+Drought,CHIRPS,Namakwa,2016,-0.21
+Drought,CHIRPS,Chris Hani,2016,-0.16
+Drought,CHIRPS,OR Tambo,2016,0.08
+Drought,CHIRPS,Pixley ka Seme,2016,-0.04
+Drought,CHIRPS,Joe Gqabi,2016,0.66
+Drought,CHIRPS,Alfred Nzo,2016,0.67
+Drought,CHIRPS,Ugu,2016,0.35
+Drought,CHIRPS,Xhariep,2016,0.77
+Drought,CHIRPS,Harry Gwala,2016,1.25
+Drought,CHIRPS,eThekwini,2016,0.64
+Drought,CHIRPS,uMgungundlovu,2016,2.31
+Drought,CHIRPS,ZF Mgcawu,2016,-0.16
+Drought,CHIRPS,iLembe,2016,1.74
+Drought,CHIRPS,Mangaung,2016,1.08
+Drought,CHIRPS,Thabo Mofutsanyane,2016,2.85
+Drought,CHIRPS,uThukela,2016,2
+Drought,CHIRPS,uMzinyathi,2016,2.37
+Drought,CHIRPS,King Cetshwayo,2016,1.63
+Drought,CHIRPS,Lejweleputswa,2016,1.55
+Drought,CHIRPS,Frances Baard,2016,0.37
+Drought,CHIRPS,Zululand,2016,2.4
+Drought,CHIRPS,uMkhanyakude,2016,2.97
+Drought,CHIRPS,Fezile Dabi,2016,1.24
+Drought,CHIRPS,Amajuba,2016,2.94
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2016,0.57
+Drought,CHIRPS,John Taolo Gaetsewe,2016,0.32
+Drought,CHIRPS,Dr Kenneth Kaunda,2016,0.28
+Drought,CHIRPS,Gert Sibande,2016,0.04
+Drought,CHIRPS,Ngaka Modiri Molema,2016,0.73
+Drought,CHIRPS,Sedibeng,2016,-0.19
+Drought,CHIRPS,West Rand,2016,0.1
+Drought,CHIRPS,Ekurhuleni,2016,-0.22
+Drought,CHIRPS,City of Johannesburg,2016,-0.09
+Drought,CHIRPS,Nkangala,2016,-0.17
+Drought,CHIRPS,Bojanala,2016,0.35
+Drought,CHIRPS,City of Tshwane,2016,0.02
+Drought,CHIRPS,Ehlanzeni,2016,0.09
+Drought,CHIRPS,Sekhukhune,2016,-0.16
+Drought,CHIRPS,Waterberg,2016,-0.06
+Drought,CHIRPS,Capricorn,2016,-0.13
+Drought,CHIRPS,Mopani,2016,-0.1
+Drought,CHIRPS,Vhembe,2016,0.01
+Drought,CHIRPS,Overberg,2017,2.2
+Drought,CHIRPS,Garden Route,2017,2.94
+Drought,CHIRPS,City of Cape Town,2017,2.27
+Drought,CHIRPS,Cacadu,2017,1.42
+Drought,CHIRPS,Cape Winelands,2017,2.98
+Drought,CHIRPS,Nelson Mandela Bay,2017,1.89
+Drought,CHIRPS,West Coast,2017,2.5
+Drought,CHIRPS,Central Karoo,2017,2.39
+Drought,CHIRPS,Amathole,2017,0.21
+Drought,CHIRPS,Buffalo City,2017,-0.08
+Drought,CHIRPS,Namakwa,2017,2.65
+Drought,CHIRPS,Chris Hani,2017,-0.04
+Drought,CHIRPS,OR Tambo,2017,-0.25
+Drought,CHIRPS,Pixley ka Seme,2017,0.58
+Drought,CHIRPS,Joe Gqabi,2017,-0.13
+Drought,CHIRPS,Alfred Nzo,2017,-0.26
+Drought,CHIRPS,Ugu,2017,-0.26
+Drought,CHIRPS,Xhariep,2017,-0.09
+Drought,CHIRPS,Harry Gwala,2017,-0.23
+Drought,CHIRPS,eThekwini,2017,-0.24
+Drought,CHIRPS,uMgungundlovu,2017,-0.05
+Drought,CHIRPS,ZF Mgcawu,2017,-0.12
+Drought,CHIRPS,iLembe,2017,-0.26
+Drought,CHIRPS,Mangaung,2017,-0.14
+Drought,CHIRPS,Thabo Mofutsanyane,2017,-0.21
+Drought,CHIRPS,uThukela,2017,-0.14
+Drought,CHIRPS,uMzinyathi,2017,-0.13
+Drought,CHIRPS,King Cetshwayo,2017,-0.25
+Drought,CHIRPS,Lejweleputswa,2017,-0.24
+Drought,CHIRPS,Frances Baard,2017,-0.24
+Drought,CHIRPS,Zululand,2017,-0.26
+Drought,CHIRPS,uMkhanyakude,2017,-0.25
+Drought,CHIRPS,Fezile Dabi,2017,-0.26
+Drought,CHIRPS,Amajuba,2017,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2017,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2017,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2017,-0.25
+Drought,CHIRPS,Gert Sibande,2017,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2017,-0.25
+Drought,CHIRPS,Sedibeng,2017,-0.25
+Drought,CHIRPS,West Rand,2017,-0.26
+Drought,CHIRPS,Ekurhuleni,2017,-0.25
+Drought,CHIRPS,City of Johannesburg,2017,-0.25
+Drought,CHIRPS,Nkangala,2017,-0.26
+Drought,CHIRPS,Bojanala,2017,-0.25
+Drought,CHIRPS,City of Tshwane,2017,-0.25
+Drought,CHIRPS,Ehlanzeni,2017,-0.25
+Drought,CHIRPS,Sekhukhune,2017,-0.24
+Drought,CHIRPS,Waterberg,2017,-0.24
+Drought,CHIRPS,Capricorn,2017,-0.24
+Drought,CHIRPS,Mopani,2017,-0.24
+Drought,CHIRPS,Vhembe,2017,-0.24
+Drought,CHIRPS,Overberg,2018,0.93
+Drought,CHIRPS,Garden Route,2018,0.44
+Drought,CHIRPS,City of Cape Town,2018,2.11
+Drought,CHIRPS,Cacadu,2018,-0.01
+Drought,CHIRPS,Cape Winelands,2018,1.71
+Drought,CHIRPS,Nelson Mandela Bay,2018,-0.13
+Drought,CHIRPS,West Coast,2018,1.76
+Drought,CHIRPS,Central Karoo,2018,0.31
+Drought,CHIRPS,Amathole,2018,-0.27
+Drought,CHIRPS,Buffalo City,2018,-0.27
+Drought,CHIRPS,Namakwa,2018,0.99
+Drought,CHIRPS,Chris Hani,2018,-0.24
+Drought,CHIRPS,OR Tambo,2018,-0.26
+Drought,CHIRPS,Pixley ka Seme,2018,-0.05
+Drought,CHIRPS,Joe Gqabi,2018,-0.24
+Drought,CHIRPS,Alfred Nzo,2018,-0.26
+Drought,CHIRPS,Ugu,2018,-0.26
+Drought,CHIRPS,Xhariep,2018,-0.06
+Drought,CHIRPS,Harry Gwala,2018,-0.26
+Drought,CHIRPS,eThekwini,2018,-0.25
+Drought,CHIRPS,uMgungundlovu,2018,-0.21
+Drought,CHIRPS,ZF Mgcawu,2018,-0.19
+Drought,CHIRPS,iLembe,2018,-0.26
+Drought,CHIRPS,Mangaung,2018,0.19
+Drought,CHIRPS,Thabo Mofutsanyane,2018,-0.14
+Drought,CHIRPS,uThukela,2018,-0.21
+Drought,CHIRPS,uMzinyathi,2018,-0.25
+Drought,CHIRPS,King Cetshwayo,2018,-0.25
+Drought,CHIRPS,Lejweleputswa,2018,-0.09
+Drought,CHIRPS,Frances Baard,2018,-0.21
+Drought,CHIRPS,Zululand,2018,-0.26
+Drought,CHIRPS,uMkhanyakude,2018,-0.25
+Drought,CHIRPS,Fezile Dabi,2018,-0.25
+Drought,CHIRPS,Amajuba,2018,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2018,-0.23
+Drought,CHIRPS,John Taolo Gaetsewe,2018,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2018,-0.24
+Drought,CHIRPS,Gert Sibande,2018,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2018,-0.18
+Drought,CHIRPS,Sedibeng,2018,-0.25
+Drought,CHIRPS,West Rand,2018,-0.26
+Drought,CHIRPS,Ekurhuleni,2018,-0.25
+Drought,CHIRPS,City of Johannesburg,2018,-0.25
+Drought,CHIRPS,Nkangala,2018,-0.23
+Drought,CHIRPS,Bojanala,2018,-0.2
+Drought,CHIRPS,City of Tshwane,2018,-0.25
+Drought,CHIRPS,Ehlanzeni,2018,-0.24
+Drought,CHIRPS,Sekhukhune,2018,-0.21
+Drought,CHIRPS,Waterberg,2018,-0.06
+Drought,CHIRPS,Capricorn,2018,-0.23
+Drought,CHIRPS,Mopani,2018,-0.24
+Drought,CHIRPS,Vhembe,2018,-0.24
+Drought,CHIRPS,Overberg,2019,-0.11
+Drought,CHIRPS,Garden Route,2019,-0.13
+Drought,CHIRPS,City of Cape Town,2019,-0.07
+Drought,CHIRPS,Cacadu,2019,0.79
+Drought,CHIRPS,Cape Winelands,2019,-0.01
+Drought,CHIRPS,Nelson Mandela Bay,2019,0.99
+Drought,CHIRPS,West Coast,2019,0.35
+Drought,CHIRPS,Central Karoo,2019,0.55
+Drought,CHIRPS,Amathole,2019,1.37
+Drought,CHIRPS,Buffalo City,2019,1.64
+Drought,CHIRPS,Namakwa,2019,0.96
+Drought,CHIRPS,Chris Hani,2019,0.09
+Drought,CHIRPS,OR Tambo,2019,-0.26
+Drought,CHIRPS,Pixley ka Seme,2019,0.84
+Drought,CHIRPS,Joe Gqabi,2019,-0.24
+Drought,CHIRPS,Alfred Nzo,2019,-0.26
+Drought,CHIRPS,Ugu,2019,-0.26
+Drought,CHIRPS,Xhariep,2019,-0.24
+Drought,CHIRPS,Harry Gwala,2019,-0.26
+Drought,CHIRPS,eThekwini,2019,-0.25
+Drought,CHIRPS,uMgungundlovu,2019,-0.26
+Drought,CHIRPS,ZF Mgcawu,2019,1.49
+Drought,CHIRPS,iLembe,2019,-0.26
+Drought,CHIRPS,Mangaung,2019,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2019,-0.26
+Drought,CHIRPS,uThukela,2019,-0.26
+Drought,CHIRPS,uMzinyathi,2019,-0.26
+Drought,CHIRPS,King Cetshwayo,2019,-0.25
+Drought,CHIRPS,Lejweleputswa,2019,-0.25
+Drought,CHIRPS,Frances Baard,2019,-0.22
+Drought,CHIRPS,Zululand,2019,-0.26
+Drought,CHIRPS,uMkhanyakude,2019,-0.25
+Drought,CHIRPS,Fezile Dabi,2019,-0.26
+Drought,CHIRPS,Amajuba,2019,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2019,0.05
+Drought,CHIRPS,John Taolo Gaetsewe,2019,-0.13
+Drought,CHIRPS,Dr Kenneth Kaunda,2019,-0.25
+Drought,CHIRPS,Gert Sibande,2019,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2019,-0.14
+Drought,CHIRPS,Sedibeng,2019,-0.25
+Drought,CHIRPS,West Rand,2019,-0.26
+Drought,CHIRPS,Ekurhuleni,2019,-0.25
+Drought,CHIRPS,City of Johannesburg,2019,-0.25
+Drought,CHIRPS,Nkangala,2019,-0.26
+Drought,CHIRPS,Bojanala,2019,-0.23
+Drought,CHIRPS,City of Tshwane,2019,-0.25
+Drought,CHIRPS,Ehlanzeni,2019,-0.25
+Drought,CHIRPS,Sekhukhune,2019,-0.24
+Drought,CHIRPS,Waterberg,2019,-0.23
+Drought,CHIRPS,Capricorn,2019,-0.24
+Drought,CHIRPS,Mopani,2019,-0.24
+Drought,CHIRPS,Vhembe,2019,-0.24
+Drought,CHIRPS,Overberg,2020,-0.26
+Drought,CHIRPS,Garden Route,2020,-0.2
+Drought,CHIRPS,City of Cape Town,2020,-0.25
+Drought,CHIRPS,Cacadu,2020,0.01
+Drought,CHIRPS,Cape Winelands,2020,-0.09
+Drought,CHIRPS,Nelson Mandela Bay,2020,0.19
+Drought,CHIRPS,West Coast,2020,0.32
+Drought,CHIRPS,Central Karoo,2020,0.14
+Drought,CHIRPS,Amathole,2020,0.08
+Drought,CHIRPS,Buffalo City,2020,0.3
+Drought,CHIRPS,Namakwa,2020,0.23
+Drought,CHIRPS,Chris Hani,2020,-0.04
+Drought,CHIRPS,OR Tambo,2020,-0.12
+Drought,CHIRPS,Pixley ka Seme,2020,0
+Drought,CHIRPS,Joe Gqabi,2020,-0.21
+Drought,CHIRPS,Alfred Nzo,2020,-0.24
+Drought,CHIRPS,Ugu,2020,-0.23
+Drought,CHIRPS,Xhariep,2020,-0.24
+Drought,CHIRPS,Harry Gwala,2020,-0.23
+Drought,CHIRPS,eThekwini,2020,-0.25
+Drought,CHIRPS,uMgungundlovu,2020,-0.02
+Drought,CHIRPS,ZF Mgcawu,2020,0
+Drought,CHIRPS,iLembe,2020,-0.26
+Drought,CHIRPS,Mangaung,2020,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2020,-0.25
+Drought,CHIRPS,uThukela,2020,0.13
+Drought,CHIRPS,uMzinyathi,2020,0.49
+Drought,CHIRPS,King Cetshwayo,2020,-0.22
+Drought,CHIRPS,Lejweleputswa,2020,-0.25
+Drought,CHIRPS,Frances Baard,2020,-0.24
+Drought,CHIRPS,Zululand,2020,-0.25
+Drought,CHIRPS,uMkhanyakude,2020,-0.25
+Drought,CHIRPS,Fezile Dabi,2020,-0.26
+Drought,CHIRPS,Amajuba,2020,-0.13
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2020,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2020,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2020,-0.25
+Drought,CHIRPS,Gert Sibande,2020,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2020,-0.25
+Drought,CHIRPS,Sedibeng,2020,-0.25
+Drought,CHIRPS,West Rand,2020,-0.26
+Drought,CHIRPS,Ekurhuleni,2020,-0.25
+Drought,CHIRPS,City of Johannesburg,2020,-0.25
+Drought,CHIRPS,Nkangala,2020,-0.25
+Drought,CHIRPS,Bojanala,2020,-0.25
+Drought,CHIRPS,City of Tshwane,2020,-0.25
+Drought,CHIRPS,Ehlanzeni,2020,-0.24
+Drought,CHIRPS,Sekhukhune,2020,-0.24
+Drought,CHIRPS,Waterberg,2020,-0.24
+Drought,CHIRPS,Capricorn,2020,-0.24
+Drought,CHIRPS,Mopani,2020,-0.24
+Drought,CHIRPS,Vhembe,2020,-0.24
+Drought,CHIRPS,Overberg,2021,-0.26
+Drought,CHIRPS,Garden Route,2021,-0.03
+Drought,CHIRPS,City of Cape Town,2021,-0.25
+Drought,CHIRPS,Cacadu,2021,2.54
+Drought,CHIRPS,Cape Winelands,2021,-0.24
+Drought,CHIRPS,Nelson Mandela Bay,2021,3.59
+Drought,CHIRPS,West Coast,2021,-0.24
+Drought,CHIRPS,Central Karoo,2021,0.53
+Drought,CHIRPS,Amathole,2021,0.46
+Drought,CHIRPS,Buffalo City,2021,0.38
+Drought,CHIRPS,Namakwa,2021,-0.03
+Drought,CHIRPS,Chris Hani,2021,-0.09
+Drought,CHIRPS,OR Tambo,2021,-0.24
+Drought,CHIRPS,Pixley ka Seme,2021,0.12
+Drought,CHIRPS,Joe Gqabi,2021,-0.22
+Drought,CHIRPS,Alfred Nzo,2021,-0.26
+Drought,CHIRPS,Ugu,2021,-0.26
+Drought,CHIRPS,Xhariep,2021,-0.24
+Drought,CHIRPS,Harry Gwala,2021,-0.26
+Drought,CHIRPS,eThekwini,2021,-0.25
+Drought,CHIRPS,uMgungundlovu,2021,-0.26
+Drought,CHIRPS,ZF Mgcawu,2021,-0.23
+Drought,CHIRPS,iLembe,2021,-0.26
+Drought,CHIRPS,Mangaung,2021,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2021,-0.26
+Drought,CHIRPS,uThukela,2021,-0.27
+Drought,CHIRPS,uMzinyathi,2021,-0.26
+Drought,CHIRPS,King Cetshwayo,2021,-0.25
+Drought,CHIRPS,Lejweleputswa,2021,-0.25
+Drought,CHIRPS,Frances Baard,2021,-0.24
+Drought,CHIRPS,Zululand,2021,-0.26
+Drought,CHIRPS,uMkhanyakude,2021,-0.25
+Drought,CHIRPS,Fezile Dabi,2021,-0.26
+Drought,CHIRPS,Amajuba,2021,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2021,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2021,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2021,-0.25
+Drought,CHIRPS,Gert Sibande,2021,-0.21
+Drought,CHIRPS,Ngaka Modiri Molema,2021,-0.25
+Drought,CHIRPS,Sedibeng,2021,-0.25
+Drought,CHIRPS,West Rand,2021,-0.26
+Drought,CHIRPS,Ekurhuleni,2021,-0.25
+Drought,CHIRPS,City of Johannesburg,2021,-0.25
+Drought,CHIRPS,Nkangala,2021,-0.24
+Drought,CHIRPS,Bojanala,2021,-0.25
+Drought,CHIRPS,City of Tshwane,2021,-0.25
+Drought,CHIRPS,Ehlanzeni,2021,-0.24
+Drought,CHIRPS,Sekhukhune,2021,-0.24
+Drought,CHIRPS,Waterberg,2021,-0.24
+Drought,CHIRPS,Capricorn,2021,-0.24
+Drought,CHIRPS,Mopani,2021,-0.24
+Drought,CHIRPS,Vhembe,2021,-0.24
+Drought,CHIRPS,Overberg,2022,-0.26
+Drought,CHIRPS,Garden Route,2022,-0.26
+Drought,CHIRPS,City of Cape Town,2022,-0.25
+Drought,CHIRPS,Cacadu,2022,-0.26
+Drought,CHIRPS,Cape Winelands,2022,-0.24
+Drought,CHIRPS,Nelson Mandela Bay,2022,-0.25
+Drought,CHIRPS,West Coast,2022,-0.24
+Drought,CHIRPS,Central Karoo,2022,-0.25
+Drought,CHIRPS,Amathole,2022,-0.27
+Drought,CHIRPS,Buffalo City,2022,-0.27
+Drought,CHIRPS,Namakwa,2022,-0.17
+Drought,CHIRPS,Chris Hani,2022,-0.25
+Drought,CHIRPS,OR Tambo,2022,-0.26
+Drought,CHIRPS,Pixley ka Seme,2022,-0.24
+Drought,CHIRPS,Joe Gqabi,2022,-0.24
+Drought,CHIRPS,Alfred Nzo,2022,-0.26
+Drought,CHIRPS,Ugu,2022,-0.26
+Drought,CHIRPS,Xhariep,2022,-0.24
+Drought,CHIRPS,Harry Gwala,2022,-0.26
+Drought,CHIRPS,eThekwini,2022,-0.25
+Drought,CHIRPS,uMgungundlovu,2022,-0.26
+Drought,CHIRPS,ZF Mgcawu,2022,-0.23
+Drought,CHIRPS,iLembe,2022,-0.26
+Drought,CHIRPS,Mangaung,2022,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2022,-0.26
+Drought,CHIRPS,uThukela,2022,-0.27
+Drought,CHIRPS,uMzinyathi,2022,-0.26
+Drought,CHIRPS,King Cetshwayo,2022,-0.25
+Drought,CHIRPS,Lejweleputswa,2022,-0.25
+Drought,CHIRPS,Frances Baard,2022,-0.24
+Drought,CHIRPS,Zululand,2022,-0.26
+Drought,CHIRPS,uMkhanyakude,2022,-0.25
+Drought,CHIRPS,Fezile Dabi,2022,-0.26
+Drought,CHIRPS,Amajuba,2022,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2022,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2022,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2022,-0.25
+Drought,CHIRPS,Gert Sibande,2022,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2022,-0.25
+Drought,CHIRPS,Sedibeng,2022,-0.25
+Drought,CHIRPS,West Rand,2022,-0.26
+Drought,CHIRPS,Ekurhuleni,2022,-0.25
+Drought,CHIRPS,City of Johannesburg,2022,-0.25
+Drought,CHIRPS,Nkangala,2022,-0.26
+Drought,CHIRPS,Bojanala,2022,-0.25
+Drought,CHIRPS,City of Tshwane,2022,-0.25
+Drought,CHIRPS,Ehlanzeni,2022,-0.24
+Drought,CHIRPS,Sekhukhune,2022,-0.24
+Drought,CHIRPS,Waterberg,2022,-0.24
+Drought,CHIRPS,Capricorn,2022,-0.23
+Drought,CHIRPS,Mopani,2022,-0.24
+Drought,CHIRPS,Vhembe,2022,-0.23
+Drought,CHIRPS,Overberg,2023,-0.26
+Drought,CHIRPS,Garden Route,2023,-0.26
+Drought,CHIRPS,City of Cape Town,2023,-0.25
+Drought,CHIRPS,Cacadu,2023,-0.26
+Drought,CHIRPS,Cape Winelands,2023,-0.24
+Drought,CHIRPS,Nelson Mandela Bay,2023,-0.26
+Drought,CHIRPS,West Coast,2023,-0.24
+Drought,CHIRPS,Central Karoo,2023,-0.25
+Drought,CHIRPS,Amathole,2023,-0.27
+Drought,CHIRPS,Buffalo City,2023,-0.27
+Drought,CHIRPS,Namakwa,2023,-0.18
+Drought,CHIRPS,Chris Hani,2023,-0.25
+Drought,CHIRPS,OR Tambo,2023,-0.26
+Drought,CHIRPS,Pixley ka Seme,2023,-0.24
+Drought,CHIRPS,Joe Gqabi,2023,-0.24
+Drought,CHIRPS,Alfred Nzo,2023,-0.26
+Drought,CHIRPS,Ugu,2023,-0.26
+Drought,CHIRPS,Xhariep,2023,-0.24
+Drought,CHIRPS,Harry Gwala,2023,-0.26
+Drought,CHIRPS,eThekwini,2023,-0.25
+Drought,CHIRPS,uMgungundlovu,2023,-0.26
+Drought,CHIRPS,ZF Mgcawu,2023,0.24
+Drought,CHIRPS,iLembe,2023,-0.26
+Drought,CHIRPS,Mangaung,2023,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2023,-0.26
+Drought,CHIRPS,uThukela,2023,-0.27
+Drought,CHIRPS,uMzinyathi,2023,-0.26
+Drought,CHIRPS,King Cetshwayo,2023,-0.25
+Drought,CHIRPS,Lejweleputswa,2023,-0.22
+Drought,CHIRPS,Frances Baard,2023,-0.24
+Drought,CHIRPS,Zululand,2023,-0.26
+Drought,CHIRPS,uMkhanyakude,2023,-0.25
+Drought,CHIRPS,Fezile Dabi,2023,-0.18
+Drought,CHIRPS,Amajuba,2023,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2023,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2023,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2023,0.13
+Drought,CHIRPS,Gert Sibande,2023,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2023,-0.1
+Drought,CHIRPS,Sedibeng,2023,-0.23
+Drought,CHIRPS,West Rand,2023,-0.17
+Drought,CHIRPS,Ekurhuleni,2023,-0.23
+Drought,CHIRPS,City of Johannesburg,2023,-0.24
+Drought,CHIRPS,Nkangala,2023,-0.24
+Drought,CHIRPS,Bojanala,2023,0.04
+Drought,CHIRPS,City of Tshwane,2023,-0.17
+Drought,CHIRPS,Ehlanzeni,2023,-0.25
+Drought,CHIRPS,Sekhukhune,2023,-0.24
+Drought,CHIRPS,Waterberg,2023,0.02
+Drought,CHIRPS,Capricorn,2023,0.63
+Drought,CHIRPS,Mopani,2023,-0.24
+Drought,CHIRPS,Vhembe,2023,-0.08
+Drought,CHIRPS,Overberg,2024,-0.26
+Drought,CHIRPS,Garden Route,2024,-0.26
+Drought,CHIRPS,City of Cape Town,2024,-0.25
+Drought,CHIRPS,Cacadu,2024,-0.25
+Drought,CHIRPS,Cape Winelands,2024,-0.24
+Drought,CHIRPS,Nelson Mandela Bay,2024,-0.26
+Drought,CHIRPS,West Coast,2024,-0.23
+Drought,CHIRPS,Central Karoo,2024,-0.25
+Drought,CHIRPS,Amathole,2024,-0.26
+Drought,CHIRPS,Buffalo City,2024,-0.27
+Drought,CHIRPS,Namakwa,2024,-0.22
+Drought,CHIRPS,Chris Hani,2024,-0.18
+Drought,CHIRPS,OR Tambo,2024,-0.26
+Drought,CHIRPS,Pixley ka Seme,2024,-0.14
+Drought,CHIRPS,Joe Gqabi,2024,-0.06
+Drought,CHIRPS,Alfred Nzo,2024,-0.26
+Drought,CHIRPS,Ugu,2024,-0.26
+Drought,CHIRPS,Xhariep,2024,-0.24
+Drought,CHIRPS,Harry Gwala,2024,-0.23
+Drought,CHIRPS,eThekwini,2024,-0.25
+Drought,CHIRPS,uMgungundlovu,2024,-0.26
+Drought,CHIRPS,ZF Mgcawu,2024,0.19
+Drought,CHIRPS,iLembe,2024,-0.26
+Drought,CHIRPS,Mangaung,2024,-0.25
+Drought,CHIRPS,Thabo Mofutsanyane,2024,-0.26
+Drought,CHIRPS,uThukela,2024,-0.27
+Drought,CHIRPS,uMzinyathi,2024,-0.26
+Drought,CHIRPS,King Cetshwayo,2024,-0.25
+Drought,CHIRPS,Lejweleputswa,2024,-0.25
+Drought,CHIRPS,Frances Baard,2024,-0.24
+Drought,CHIRPS,Zululand,2024,-0.26
+Drought,CHIRPS,uMkhanyakude,2024,-0.25
+Drought,CHIRPS,Fezile Dabi,2024,-0.26
+Drought,CHIRPS,Amajuba,2024,-0.25
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2024,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2024,-0.23
+Drought,CHIRPS,Dr Kenneth Kaunda,2024,-0.22
+Drought,CHIRPS,Gert Sibande,2024,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2024,-0.23
+Drought,CHIRPS,Sedibeng,2024,-0.25
+Drought,CHIRPS,West Rand,2024,-0.24
+Drought,CHIRPS,Ekurhuleni,2024,-0.25
+Drought,CHIRPS,City of Johannesburg,2024,-0.24
+Drought,CHIRPS,Nkangala,2024,-0.25
+Drought,CHIRPS,Bojanala,2024,-0.2
+Drought,CHIRPS,City of Tshwane,2024,-0.22
+Drought,CHIRPS,Ehlanzeni,2024,-0.25
+Drought,CHIRPS,Sekhukhune,2024,-0.24
+Drought,CHIRPS,Waterberg,2024,-0.14
+Drought,CHIRPS,Capricorn,2024,0.02
+Drought,CHIRPS,Mopani,2024,-0.24
+Drought,CHIRPS,Vhembe,2024,-0.21
+Drought,CHIRPS,Overberg,2025,1.79
+Drought,CHIRPS,Garden Route,2025,2.4
+Drought,CHIRPS,City of Cape Town,2025,-0.24
+Drought,CHIRPS,Cacadu,2025,0.18
+Drought,CHIRPS,Cape Winelands,2025,1.35
+Drought,CHIRPS,Nelson Mandela Bay,2025,0.4
+Drought,CHIRPS,West Coast,2025,-0.21
+Drought,CHIRPS,Central Karoo,2025,0.47
+Drought,CHIRPS,Amathole,2025,-0.27
+Drought,CHIRPS,Buffalo City,2025,-0.27
+Drought,CHIRPS,Namakwa,2025,-0.18
+Drought,CHIRPS,Chris Hani,2025,-0.25
+Drought,CHIRPS,OR Tambo,2025,-0.27
+Drought,CHIRPS,Pixley ka Seme,2025,-0.24
+Drought,CHIRPS,Joe Gqabi,2025,-0.24
+Drought,CHIRPS,Alfred Nzo,2025,-0.29
+Drought,CHIRPS,Ugu,2025,-0.28
+Drought,CHIRPS,Xhariep,2025,-0.26
+Drought,CHIRPS,Harry Gwala,2025,-0.29
+Drought,CHIRPS,eThekwini,2025,-0.27
+Drought,CHIRPS,uMgungundlovu,2025,-0.28
+Drought,CHIRPS,ZF Mgcawu,2025,-0.23
+Drought,CHIRPS,iLembe,2025,-0.28
+Drought,CHIRPS,Mangaung,2025,-0.28
+Drought,CHIRPS,Thabo Mofutsanyane,2025,-0.28
+Drought,CHIRPS,uThukela,2025,-0.29
+Drought,CHIRPS,uMzinyathi,2025,-0.26
+Drought,CHIRPS,King Cetshwayo,2025,-0.27
+Drought,CHIRPS,Lejweleputswa,2025,-0.27
+Drought,CHIRPS,Frances Baard,2025,-0.24
+Drought,CHIRPS,Zululand,2025,-0.26
+Drought,CHIRPS,uMkhanyakude,2025,-0.26
+Drought,CHIRPS,Fezile Dabi,2025,-0.27
+Drought,CHIRPS,Amajuba,2025,-0.26
+Drought,CHIRPS,Dr Ruth Segomotsi Mompati,2025,-0.24
+Drought,CHIRPS,John Taolo Gaetsewe,2025,-0.24
+Drought,CHIRPS,Dr Kenneth Kaunda,2025,-0.26
+Drought,CHIRPS,Gert Sibande,2025,-0.26
+Drought,CHIRPS,Ngaka Modiri Molema,2025,-0.26
+Drought,CHIRPS,Sedibeng,2025,-0.26
+Drought,CHIRPS,West Rand,2025,-0.25
+Drought,CHIRPS,Ekurhuleni,2025,-0.26
+Drought,CHIRPS,City of Johannesburg,2025,-0.25
+Drought,CHIRPS,Nkangala,2025,-0.26
+Drought,CHIRPS,Bojanala,2025,-0.25
+Drought,CHIRPS,City of Tshwane,2025,-0.25
+Drought,CHIRPS,Ehlanzeni,2025,-0.25
+Drought,CHIRPS,Sekhukhune,2025,-0.25
+Drought,CHIRPS,Waterberg,2025,-0.25
+Drought,CHIRPS,Capricorn,2025,-0.25
+Drought,CHIRPS,Mopani,2025,-0.24
+Drought,CHIRPS,Vhembe,2025,-0.24
