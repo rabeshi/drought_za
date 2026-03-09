@@ -1,4 +1,4 @@
-# drought_za
+# Drought Analysis in South Africa
 
 South Africa drought analysis and prediction project using CHIRPS-derived drought indicators.
 
